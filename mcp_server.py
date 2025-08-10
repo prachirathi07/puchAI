@@ -21,7 +21,7 @@ MY_NUMBER = "917357168831"
 # --- Path to your resume file ---
 # IMPORTANT: Use a raw string (r"...") for Windows paths to avoid errors.
 # Make sure this file actually exists at this location on your computer.
-RESUME_FILE_PATH = r"C:\Users\prach\Desktop\PrachiRathiResume.pdf"
+RESUME_FILE_PATH = "PrachiRathiResume.pdf"
 
 
 # --- Helper Functions to read resume files ---
